@@ -2,15 +2,15 @@
 
 Five short, standalone Power BI tutorials, each focused on one DAX idea. Every video has its own tiny sample dataset, so you can watch them in any order.
 
-> **Playlist:** [Power BI DAX Spotlight on YouTube](YOUR-PLAYLIST-LINK)
+> **Playlist:** [Power BI DAX Spotlight on YouTube](https://www.youtube.com/playlist?list=PLek1t11USgEU)
 
 ## What you'll learn
 
 | # | Video | DAX covered | Data file |
 |---|-------|-------------|-----------|
-| 1 | [CALENDARAUTO(): build a date table in one line](YOUR-VIDEO-1-LINK) | `CALENDARAUTO`, `YEAR`, `MONTH`, `FORMAT`, `ROUNDUP` | `data/Events.csv` |
-| 2 | [Time intelligence: YTD, last year and growth %](YOUR-VIDEO-2-LINK) | `TOTALYTD`, `SAMEPERIODLASTYEAR`, `DATEADD`, `DIVIDE`, `CALCULATE` | `data/Subscriptions.csv` |
-| 3 | [SWITCH(TRUE()): say goodbye to nested IFs](YOUR-VIDEO-3-LINK) | `SWITCH`, `TRUE`, `IF`, `FILTER`, `COUNTROWS` | `data/Tickets.csv` |
+| 1 | [CALENDARAUTO(): build a date table in one line](https://youtu.be/YmWYcDxKMD0) | `CALENDARAUTO`, `YEAR`, `MONTH`, `FORMAT`, `ROUNDUP` | `data/Events.csv` |
+| 2 | [Time intelligence: YTD, last year and growth %](https://youtu.be/L8xyKaXqMNc) | `TOTALYTD`, `SAMEPERIODLASTYEAR`, `DATEADD`, `DIVIDE`, `CALCULATE` | `data/Subscriptions.csv` |
+| 3 | [SWITCH(TRUE()): say goodbye to nested IFs](https://youtu.be/vmFwas5vwy4) | `SWITCH`, `TRUE`, `IF`, `FILTER`, `COUNTROWS` | `data/Tickets.csv` |
 | 4 | [ALL vs ALLSELECTED: percent of total and running total](YOUR-VIDEO-4-LINK) | `ALL`, `ALLSELECTED`, `CALCULATE`, `FILTER`, `MAX` | `data/Traffic.csv` |
 | 5 | [RANKX, TOPN and dynamic titles](YOUR-VIDEO-5-LINK) | `RANKX`, `TOPN`, `SELECTEDVALUE`, `ALL` | `data/Reps.csv` |
 
@@ -26,11 +26,11 @@ dax-spotlight/
 │   ├── Traffic.csv
 │   └── Reps.csv
 └── pbix/                      (optional finished reports)
-    ├── DAX_Video1_CALENDARAUTO.pbix
-    ├── DAX_Video2_TimeIntelligence.pbix
-    ├── DAX_Video3_SWITCH.pbix
-    ├── DAX_Video4_ALLSELECTED.pbix
-    └── DAX_Video5_RANKX.pbix
+    ├── DAX Spotlight 1-CALENDARAUTO.pbix
+    ├── DAX Spotlight 2-Time Intelligence.pbix
+    ├── DAX Spotlight 3-SWITCH.pbix
+    ├── DAX Spotlight 4-ALLSELECTED.pbix
+    └── DAX Spotlight 5-RANKX.pbix
 ```
 
 ## How to follow along
