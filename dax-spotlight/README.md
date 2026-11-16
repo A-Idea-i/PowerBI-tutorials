@@ -27,11 +27,11 @@ dax-spotlight/
 │   ├── Traffic.csv
 │   └── Reps.csv
 └── pbix/                      (optional finished reports)
-    ├── DAX_Video1_CALENDARAUTO.pbix
-    ├── DAX_Video2_TimeIntelligence.pbix
-    ├── DAX_Video3_SWITCH.pbix
-    ├── DAX_Video4_ALLSELECTED.pbix
-    └── DAX_Video5_RANKX.pbix
+    ├── DAX Spotlight 1-CALENDARAUTO.pbix
+    ├── DAX Spotlight 2-Time Intelligence.pbix
+    ├── DAX Spotlight 3-SWITCH.pbix
+    ├── DAX Spotlight 4-ALLSELECTED.pbix
+    └── DAX Spotlight 5-RANKX.pbix
 ```
 
 ## How to follow along
